@@ -17,7 +17,7 @@
   --success-color: #43b581;
   --danger-color: #982929;
   --url-color: var(--main-color);
-  --background-image: url('https://cdn.discordapp.com/attachments/1047304359278555227/1101081704736751676/4D99209D-117E-44AF-96C4-C99C00307006.jpg');
+  --background-image: url('https://cdn.discordapp.com/attachments/1108285944953573420/1108286108913123388/disciples.png');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
